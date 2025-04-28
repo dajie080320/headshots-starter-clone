@@ -272,4 +272,4 @@ If you want to contribute to the codebase make sure you create a new branch and 
 
 Headshot AI is released under the [MIT License](https://choosealicense.com/licenses/mit/).
  
-  
+    
